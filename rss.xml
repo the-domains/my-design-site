@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[My Design Site]]></title>
         <description><![CDATA[My Design Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-design-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 23:22:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 23:26:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-design-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/209733b4-63e3-461c-b047-bf143bb2dcb1.jpg">]]></description>
-            <link>undefined9d769021-3dde-432c-a73a-d5d3068ffc34/index.html</link>
+            <title><![CDATA[Isn't she lovely?]]></title>
+            <description><![CDATA[<article><h1>Isn't she lovely?</h1><p>Isn't she lovely? Isn't she wonderful?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7ab175f0bea6bd8edd846ebc3c8cba81c44254a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-design-site/9d769021-3dde-432c-a73a-d5d3068ffc34/index.html</link>
             <guid isPermaLink="false">9d769021-3dde-432c-a73a-d5d3068ffc34</guid>
-            <pubDate>Sun, 21 Feb 2016 23:17:07 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 23:26:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -2,6 +2,7 @@ name: My Design Site
 favicon: null
 layout_spectrum: 0.50121
 typography_spectrum: 0.5777914349455386
+title: Lovely
 cta:
   domain: null
   bucket: null

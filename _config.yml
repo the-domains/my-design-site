@@ -1,6 +1,6 @@
 name: My Design Site
 favicon: null
-layout_spectrum: 0.74616
+layout_spectrum: 1
 typography_spectrum: 0.5777914349455386
 title: Lovely
 cta:
@@ -24,6 +24,6 @@ color:
     - '#160600'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.8125
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
